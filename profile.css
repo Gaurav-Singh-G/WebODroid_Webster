@@ -1,0 +1,32 @@
+/* heading */
+.head{
+
+    padding: .20%;
+    color: green;
+    font-size: 7vw;
+    background-color: black;
+
+    
+}
+
+#profile_back{
+    text-size-adjust: auto;
+    background-color: green;
+    margin: 0.5%;
+}
+
+.profile{
+    
+    border-radius: 5%;
+    width:25vw;
+    padding: .5vw;
+    
+
+}
+
+.test{
+    color: aliceblue;
+    text-align: center;
+    size: 100px;
+    
+}

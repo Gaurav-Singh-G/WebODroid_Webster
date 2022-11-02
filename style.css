@@ -1,0 +1,62 @@
+/* heading */
+.head{
+
+    padding: 20px;
+    color: green;
+    font-size: 80px;
+    background-color: black;
+    
+}
+/* navigation bar */
+.navigation{
+    background-color: green;
+}
+
+.nav-link{
+    color: white;
+    text-align: center;
+}
+/* Crsl  row */
+#row_caro{
+
+    justify-content:center ;
+}
+/* crsl size */
+#crsl{
+    width: 900px;
+}
+
+#row_caro{
+    background-color: black;
+}
+
+.profiles{
+    background-color: black;
+    padding-top: 2%;
+
+}
+
+.button_prof{
+    background-color:black;
+    color:white;
+}
+
+.new_cont{
+    background-color: black;
+}
+
+.card{
+    background-color: green;
+}
+
+.col{
+    padding: 2%;
+}
+
+table,th,td{
+
+    border-color: white;
+    padding: 20px;
+    width: 50%;
+    font-size: 20px;
+}

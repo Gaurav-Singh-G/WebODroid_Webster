@@ -1,0 +1,45 @@
+#login_col{
+    align-items: center;
+}
+
+.head{
+
+    padding: 20px;
+    color: green;
+    font-size: 80px;
+    background-color: black;
+    
+}
+
+#login_block{
+    justify-content: end;
+    padding: 20px;
+    background-color: black;
+}
+
+#Submit_btn{
+    padding: 1%;
+    color:white;
+    background-color: green;
+    border-radius:5%;
+    border: none;
+    width: 80%;
+}
+#Submit_btn:hover{
+    padding: 1%;
+    color:white;
+    background-color:rgb(25, 164, 0);
+    border-radius:5%;
+    border: none;
+    width: 80%;
+}
+
+#User_name,#Password,#fname,#lname,#country{
+    text-align: center;
+    border: none;
+
+}
+
+#login_col.col-4{
+    text-align: center;
+}
